@@ -1,5 +1,5 @@
 # PythonProjects
-***🎈🎈If you are interested in this, Please follow and star!!!🎈🎈***
+***🎈🎈If you are interested in this, Please follow and star!!!🎈🎈***  
 **用python做的项目**  
 ***HandTrackingProject***：手部追踪学习  
 ***opencv***：opencv包学习，以及笔记  
